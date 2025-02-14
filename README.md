@@ -31,3 +31,21 @@ The compiled JavaScript file can be executed in any JavaScript environment:</p>
 ```
 node filename.js
 ```
+
+<p>4. Watch for Changes and Automatically Compile:
+Use the --watch flag to monitor TypeScript files for changes and automatically recompile them when changes are detected:</p>
+
+```
+tsc --watch
+```
+
+<p>5. Run Node with File Watching::
+Use the --watch flag to monitor JavaScript files for changes and automatically run them when changes are detected:</p>
+
+```
+node --watch
+```
+You can also use the nodemon tool to watch for changes and automatically restart the Node.js application when files are updated:
+```
+npx nodemon filename.js
+```
