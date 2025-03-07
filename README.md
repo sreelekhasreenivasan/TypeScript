@@ -8,7 +8,7 @@ TypeScript is a strongly typed Object-Oriented open source programming language 
 * Support for JavaScript Libraries
 * Compatibility with JavaScript
 * Cross-Platform and Portable
-* Enhanced DOM Manipulation
+* Enhanced DOM Manipulations
 
 <h2>Getting Started</h2>  
 
